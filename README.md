@@ -3,6 +3,8 @@
 ## About me
 I started programming around 2013 when i first found out that you can make plugins for minecraft server that changed the game behaviour and since then i have learned using multiple programming languages and wasy to write code.
 
+In addition to programming i also have some expirience with networking, server hosting and building computers ([I even won the pc building contest at dreamhack (⌐■_■)](https://www.youtube.com/watch?v=ZYEqT4-H9l0))
+
 My interests include
 * Backend design
 * Network engineering
