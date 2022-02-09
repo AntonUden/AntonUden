@@ -19,7 +19,7 @@ Some languages i regularly use are
 * TypeScript
 * Java
 * C#
-* HTML and CSS (If you count those ¯\\_(ツ)_/¯)
+* HTML and CSS (If you count those ¯\\_(ツ)_/¯
 * PHP
 
 I have also used C, C++ and Python but im nat that good with those languages ಥ_ಥ
