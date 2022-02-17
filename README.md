@@ -1,6 +1,6 @@
 # Hi, my name is Anton and im a developer from sweden
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AntonUden&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About me
 I started programming around 2013 when i first found out that you can make plugins for minecraft server that changed the game behaviour and since then i have learned using multiple programming languages and wasy to write code.
