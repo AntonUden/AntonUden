@@ -24,7 +24,7 @@ Some languages i regularly use are
 * HTML and CSS (If you count those ¯\\_(ツ)_/¯
 * PHP
 
-I have also used C, C++ and Python but im nat that good with those languages ಥ_ಥ
+I have also used C, C++ and Python but im not that good with those languages ಥ_ಥ
 
 Some of my projects include:
 * Building a web crawler to find prices of Yu-Gi-Oh cards
