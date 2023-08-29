@@ -20,6 +20,7 @@ Some languages i regularly use are
 * JavaScript (For web development and NodeJS)
 * TypeScript
 * Java
+* Kotlin
 * C#
 * HTML and CSS (If you count those ¯\\_(ツ)_/¯
 * PHP
