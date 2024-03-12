@@ -38,6 +38,7 @@ Work experience
 * Internship at [Stadsbyggnadskontoret jönköping](https://www.jonkoping.se/kommunpolitik/kommunensorganisation/forvaltningar/stadsbyggnadskontoret.4.74fef9ab15548f0b8001a08.html)
 * Developer / Sysadmin at [Gameffect](https://gameffect.se/esport/)
 * Some non programming realated work at [AlbertUdenAB](http://albertsbettskenor.se/)
+* Developer at [Telia](https://www.telia.se/)
 
 ## Links
 [My personal website](https://zeeraa.net/)
