@@ -2450,7 +2450,7 @@ Currently working as a developer at Telia</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.87 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.18 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2472,7 +2472,7 @@ Currently working as a developer at Telia</div>
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 577 times</div>
+                                <div class="text">Repositories have been deployed 578 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2694,7 +2694,7 @@ Currently working as a developer at Telia</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.08m out of 239m repositories</span>
+                                    <span class="gh">ranked 1.08m out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2784,7 +2784,7 @@ Currently working as a developer at Telia</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.15m out of 239m repositories</span>
+                                    <span class="gh">ranked 1.15m out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 24 stars</div>
                             </div>
@@ -2877,7 +2877,7 @@ Currently working as a developer at Telia</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Feb 2025, 07:03:59  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2025, 08:04:44  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
